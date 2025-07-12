@@ -1,7 +1,7 @@
 
 # Apt-Cacher NG on Proxmox: Speed Up VM Package Downloads
 
-![Apt-Cacher NG Dashboard](https://github.com/user-attachments/assets/8cd89c29-82e5-4747-b2db-e5876169388b)
+<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/ef41a405-9b99-48e0-9e12-2e923945d6e0" />
 
 ## Overview
 
