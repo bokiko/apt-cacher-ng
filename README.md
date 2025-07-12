@@ -1,5 +1,6 @@
-## Setting Up apt-cacher-ng on Proxmox for Faster VM Package Downloads
+#  Setting Up apt-cacher-ng on Proxmox for Faster VM Package Downloads
 
+<img width="635" height="374" alt="apt-cacher-ng dashboard" src="https://github.com/user-attachments/assets/8cd89c29-82e5-4747-b2db-e5876169388b" />
 
 ## Overview
 
